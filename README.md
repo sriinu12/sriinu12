@@ -1,6 +1,6 @@
 # 💫 About Me:
-🌱 I have been working at Accenture as a Software Engineer since January 2023, and I continue to contribute to groundbreaking projects and innovative solutions.<br>
-💬 Ask me about software development practices(DSA, HLD, LLD, OOps), team collaboration, or how to unwind after a busy day at work!<br>
+🌱 I have been working at Accenture as a Software Engineer since January 2023. I continue to contribute to groundbreaking projects and innovative solutions.<br>
+💬 Ask me about software development practices(DSA, HLD, LLD, OOPs), team collaboration, or how to unwind after a busy day at work!<br>
 ⚡ Fun fact: I can solve a Rubik's cube in under three minutes.<br>
 
 
